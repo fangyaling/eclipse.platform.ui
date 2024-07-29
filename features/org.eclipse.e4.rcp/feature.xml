@@ -204,6 +204,13 @@
          version="0.0.0"/>
 
    <plugin
+         id="org.eclipse.equinox.launcher.gtk.linux.loongarch64"
+         os="linux"
+         ws="gtk"
+         arch="loongarch64"
+         version="0.0.0"/>
+
+   <plugin
          id="org.eclipse.equinox.launcher.gtk.linux.aarch64"
          os="linux"
          ws="gtk"
@@ -254,6 +261,13 @@
          os="linux"
          ws="gtk"
          arch="ppc64le"
+         version="0.0.0"/>
+
+   <plugin
+         id="org.eclipse.swt.gtk.linux.loongarch64"
+         os="linux"
+         ws="gtk"
+         arch="loongarch64"
          version="0.0.0"/>
 
    <plugin
